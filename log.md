@@ -1,11 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 1: 03-25-2021 (Example 1)
-<!-- ##### (delete me or comment me out) -->
+### Day 1: 03-25-2021
 
 **Today's Progress**: tried ruby out
 
 **Thoughts:** Cool syntax.
+
+### Day 2: 03-26-2021
+
+**Today's Progress**: learning about Ruby variables and binary
+
+**Thoughts:** 111 is 7 in binary.
+
 
 
 <!--
