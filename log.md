@@ -1,16 +1,22 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - 2021
 
-### Day 1: 03-25-2021
+### Day 1: 03-25
 
 **Today's Progress**: tried ruby out
 
 **Thoughts:** Cool syntax.
 
-### Day 2: 03-26-2021
+### Day 2: 03-26-
 
 **Today's Progress**: learning about Ruby variables and binary
 
 **Thoughts:** 111 is 7 in binary.
+
+### Day 2: 03-27
+
+**Today's Progress**: learning about Ruby I&O (TOP), & using irb
+
+**Thoughts:**
 
 
 
