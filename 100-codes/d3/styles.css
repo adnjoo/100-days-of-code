@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Overpass;
+}
+
+.top {
+  background-color: #fc846c;
+  height: 30em;
+}
+.topnav a {
+float: left;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+
+}
+
+.middle {
+  height:30em;
+}
+
+.right {
+  float: right !important;
+}
+
+.button {
+  background-color: white;
+  text-align: center;
+  padding: 15px 32px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  color: #fc846c;
+  border: 0px;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: 2em;
+  color: white;
+}
+
+#paragraph2 {
+  font-size: 14px;
+}
+
+#button {
+  background-color: #fc846c;
+  color: white;
+  border-color: white;
+  border: 1px solid white;
+}
+
+.first_paragraph {
+  width:400px;
+  margin:40px;
+  display: inline-block;
+  float:left;
+}
+
+.first_image {
+  display: inline-block;
+  float:right;
+}
