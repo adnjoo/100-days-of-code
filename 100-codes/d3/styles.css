@@ -1,24 +1,41 @@
+* {
+  border: 1px solid;
+}
+
 body {
-  margin: 0;
   font-family: Overpass;
+  margin: 0;
 }
 
 .top {
   background-color: #fc846c;
   height: 30em;
+  border-radius: 0 0 0 50px;
+  position:relative;
 }
+
+.topnav {
+  margin: 0 4em 20px 4em;
+  padding-top: 2em;
+}
+
 .topnav a {
-float: left;
 color: white;
 text-align: center;
-padding: 14px 16px;
+padding: 14px 10px 16px 10px;
+font-size: 14px;
 text-decoration: none;
-font-size: 17px;
-
 }
-
+#blogr {
+  font-size: 1.7em;
+  font-weight: 700;
+}
 .middle {
-  height:30em;
+  height:40em;
+  background-image: url('blogr/images/ill-desktop.svg');
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 130% 0%;
 }
 
 .right {
@@ -39,8 +56,14 @@ font-size: 17px;
   text-align: center;
   font-size: 2em;
   color: white;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
 }
-
+#paragraph1 {
+  font-weight:bold;
+}
 #paragraph2 {
   font-size: 14px;
 }
@@ -52,14 +75,46 @@ font-size: 17px;
   border: 1px solid white;
 }
 
+#button:hover {
+  color:black;
+}
+
 .first_paragraph {
   width:400px;
   margin:40px;
-  display: inline-block;
-  float:left;
+  transform: translateY(10%) ;
+  /* display: inline-block; */
 }
 
-.first_image {
-  display: inline-block;
-  float:right;
+.button:hover {
+  color:black;
+}
+
+.middle2 {
+  background-color: #3c3c64;
+  height: 20em;
+  border-radius: 0 5em 0 5em;
+  color: white;
+  position: relative;
+}
+
+.paragraph3 {
+  font-size: 2em;
+  top: 50%;
+  left: 50%;
+  transform: translate(40%, 80%);
+}
+
+#paragraph4 {
+  width: 400px;
+  font-size: 14px;
+  float: left;
+}
+
+.bluetext {
+  color: hsl(208, 49%, 24%)
+}
+
+.bottom {
+  height:40em;
 }

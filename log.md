@@ -12,12 +12,17 @@
 
 **Thoughts:** 111 is 7 in binary.
 
-### Day 2: 03-27
+### Day 3: 03-27
 
-**Today's Progress**: learning about Ruby I&O (TOP), & using irb
+**Today's Progress**: learning about Ruby I&O (TOP), using irb, CSS
+
+**Thoughts:** flexbox
+
+### Day 4: 03-28
+
+**Today's Progress**: more css & html
 
 **Thoughts:**
-
 
 
 <!--
