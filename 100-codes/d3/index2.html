@@ -5,19 +5,50 @@
     <title></title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="styles2.css">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js'></script>
   </head>
   <body>
     <header class='header'>
       <nav class='navbar justify-content-between navbar2'>
         <div class="">
           <a class='white' id='blogr' href="#">Blogr</a>
-          <a class='white' href="#">Product</a>
-          <a class='white' href="#">Company</a>
-          <a class='white' href="#">Connect</a>
+          <span class='dropdown spanspacemore'>
+            <a class='white dropdown-toggle smallerfont' href="#" role='button' id='dropdownMenuLink1' data-toggle='dropdown' aria-haspopup="true" aria-expanded='false'>
+              Product
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink1">
+              <a class="dropdown-item" href="#">Overview</a>
+              <a class="dropdown-item" href="#">Pricing</a>
+              <a class="dropdown-item" href="#">Marketplace</a>
+              <a class="dropdown-item" href="#">Features</a>
+              <a class="dropdown-item" href="#">Integrations</a>
+            </div>
+          </span>
+          <span class='dropdown spanspace'>
+            <a class='white dropdown-toggle smallerfont' href="#" role='button' id='dropdownMenuLink2' data-toggle='dropdown' aria-haspopup="true" aria-expanded='false'>
+              Company
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink2">
+              <a class="dropdown-item" href="#">About</a>
+              <a class="dropdown-item" href="#">Team</a>
+              <a class="dropdown-item" href="#">Blog</a>
+              <a class="dropdown-item" href="#">Careers</a>
+            </div>
+          </span>
+          <span class='dropdown spanspace'>
+            <a class='white dropdown-toggle smallerfont' href="#" role='button' id='dropdownMenuLink3' data-toggle='dropdown' aria-haspopup="true" aria-expanded='false'>
+              Connect
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink3">
+              <a class="dropdown-item" href="#">Contact</a>
+              <a class="dropdown-item" href="#">Newsletter</a>
+              <a class="dropdown-item" href="#">LinkedIn</a>
+            </div>
+          </span>
         </div>
         <div class="">
-          <button class="button white" type="button" name="button">Login</button>
-          <button class="button white" type="button" name="button">Sign Up</button>
+          <a href='#' class="white smallerfont">Login</a>
+          <button class="button white spanspace buttonwhite smallerfont" type="button" name="button">Sign Up</button>
         </div>
       </nav>
       <section class="section1 white" >
@@ -28,8 +59,8 @@
           Grow your audience and build your online brand
         </div>
         <div class="buttons">
-          <button class="button" type="button" name="button">Start for Free</button>
-          <button class="button" id="button" type="button" name="button">Learn More</button>
+          <button class="button buttonwhite smallerfont" type="button" name="button">Start for Free</button>
+          <button class="button spanspace smallerfont" id="button" type="button" name="button">Learn More</button>
         </div>
     </section>
 
@@ -72,7 +103,59 @@
       </div>
     </section>
     <section class='section4'>
-hi
+      <div class='section3-content'>
+        <div class='section2-text-heading blue'>
+          Free, open, simple
+        </div>
+        <div class="section2-text-content blue">
+          Blogr is a free and open source application backed by a large community of helpful developers. It supports 
+          features such as code syntax highlighting, RSS feeds, social media integration, third-party commenting tools, 
+          and works seamlessly with Google Analytics. The architecture is clean and is relatively easy to learn.
+        </div>
+        <div class='section2-text-heading blue'>
+          Powerful tooling
+        </div>
+        <div class="section2-text-content blue">
+          Batteries included. We built a simple and straightforward CLI tool that makes customization and deployment a breeze, but
+          capable of producing even the most complicated sites.
+        </div>
+      </div>
     </section>
+    <footer>
+      <div class='white footer d-flex justify-content-around'>
+      <a class='white' id='blogr' href="#">Blogr</a>
+      <nav>
+        <h6>Product</h6>
+        <ul>
+          <a href="#"><li>Overview</li></a>
+          <a href="#"><li>Pricing</li></a>
+           <a href="#"><li>Marketplace</li></a>
+           <a href="#"><li>Features</li></a>
+           <a href="#"><li>Integrations</li></a>
+        </ul>
+      </nav>
+      <nav>
+        <h6>Company</h6>
+        <ul>
+           <a href="#"><li>About</li></a>
+           <a href="#"><li>Team</li></a>
+           <a href="#"><li>Blog</li></a>
+           <a href="#"><li>Career</li></a>
+        </ul>
+      </nav>
+      <nav>
+        <h6>Connect</h6>
+        <ul>
+           <a href="#"><li>Contact</li></a>
+           <a href="#"><li>Newsletter</li></a>
+           <a href="#"><li>LinkedIn</li></a>
+        </ul>
+      </nav>
+      </div>  
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
   </body>
 </html>

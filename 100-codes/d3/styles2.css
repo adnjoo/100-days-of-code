@@ -21,7 +21,8 @@
 }
 
 #blogr {
-  font-size: 32px;
+  font-size: 24px;
+  font-weight: bolder;
 }
 
 .white {
@@ -33,6 +34,8 @@
   color: white;
   background: #fc846c;
   border: 1px solid white;
+  width: 7em;
+  height: 2em;
 }
 
 .section1 {
@@ -97,6 +100,7 @@
 }
 
 .section3 {
+  position: relative;
   height:15em;
   background-color: #3c3c64;
   background-image: url('blogr/images/bg-pattern-circles.svg');
@@ -105,7 +109,6 @@
   background-position: -20% 100%;
   padding-right: 4em;
   border-radius: 0 5em 0 5em;
-  position: relative;
 }
 
 .section3-content {
@@ -124,4 +127,43 @@ transform:translate(2em, -2.5em);
 
 .section4 {
   height:30em;
+  position: relative;
+  background-image: url('blogr/images/ill-laptop-desktop.svg');
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: -20% 100%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer {
+  height:15em;
+  padding-top: 2em;
+  background-color: hsl(240, 10%, 16%);
+  border-radius: 0 3.5em 0 0;
+}
+
+a {
+  color:white;
+}
+
+.spanspace {
+  margin-left: 10px;
+}
+
+.spanspacemore {
+  margin-left: 30px;
+}
+
+.buttonwhite{
+  background-color: white;
+  color:#fc846c;
+}
+
+.smallerfont {
+  font-size: 14px;
 }

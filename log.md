@@ -26,9 +26,10 @@
 
 ### Day 5: 03-29
 
-**Today's Progress**: trying out react native
+**Today's Progress**: trying out react native & more css/html
 
-**Thoughts:** 
+**Thoughts:** working on the website design. learned about dropdowns using popper.js and bootstrap.
+stuck the script on the bottom of the page.
 
 
 <!--
