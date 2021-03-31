@@ -29,7 +29,27 @@
 **Today's Progress**: trying out react native & more css/html
 
 **Thoughts:** working on the website design. learned about dropdowns using popper.js and bootstrap.
-stuck the script on the bottom of the page.
+
+### Day 6: 03-30
+
+**Today's Progress**:
+
+**Thoughts:** dsl = domain specific lang, spa = single page app. learnt about overflow hidden.
+### Day 6: 03-30
+
+**Today's Progress**:
+
+**Thoughts:** dsl = domain specific lang, spa = single page app. learnt about overflow hidden.
+
+
+
+### Day 7: 03-31
+
+**Today's Progress**:
+
+**Thoughts:** how to do hamburger menu? the thinking is that there is JS code collapsing the menu? turn it into a X. 
+
+
 
 
 <!--
