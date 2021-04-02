@@ -5,6 +5,8 @@
 
 #### Start Date
 03-25-21.
+#### End Date
+07-03-21 
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
