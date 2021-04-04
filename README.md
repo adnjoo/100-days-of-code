@@ -8,4 +8,5 @@
 #### D7-03-31 React is faster because it uses virtual dom.
 #### D8-04-01 Following kapehe's tutorial and making react page with sanity with tailwind.css. so fun! include this code <meta name="viewport" content="width=device-width, initial-scale=1">, to make @media styles work.
 #### D9-04-02 react - mean crud app- failed lmao what is db.collection undefined?
-#### D10-04-03
+#### D10-04-03 tried and fail to create mean crud app again lmao
+#### D11-04-04 mean crud app - everything in mongoose starts with schema. each schema maps to mongodb collection.
