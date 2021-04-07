@@ -10,3 +10,5 @@
 #### D9-04-02 react - mean crud app- failed lmao what is db.collection undefined?
 #### D10-04-03 tried and fail to create mean crud app again lmao
 #### D11-04-04 mean crud app - everything in mongoose starts with schema. each schema maps to mongodb collection.
+#### D12-04-05
+#### D13-04-06 trying tailwind out
