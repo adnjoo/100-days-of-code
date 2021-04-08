@@ -12,3 +12,4 @@
 #### D11-04-04 mean crud app - everything in mongoose starts with schema. each schema maps to mongodb collection.
 #### D12-04-05
 #### D13-04-06 trying tailwind out
+#### D14-04-07 portfolio website - html, css
