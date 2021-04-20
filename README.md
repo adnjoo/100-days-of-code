@@ -19,3 +19,4 @@
 #### D20-13
 #### D21-14 change color html https://codepen.io/adnjoo/pen/GRrdxmB
 #### D22-15 update adnjoo.com to cleaner eleventy/jamstack blog, put mern app into heroku
+#### D27-20 learn react on FCC
