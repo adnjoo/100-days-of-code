@@ -30,7 +30,7 @@
 #### D37-30
 #### D38-05-01
 #### D39-02
-#### D40: 05-03 did some leetcode problems today; made this markdown generator for 100 days of code that generates 100 days of markdown lines.
+#### D40: 05-03 did some leetcode problems today; made this markdown generator for 100 days of code that generates 100 days of markdown lines. source: https://replit.com/@AndrewNjoo/HelplessMenacingSign#index.js
 #### D41: 05-04
 #### D42: 05-05
 #### D43: 05-06
