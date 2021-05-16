@@ -21,3 +21,13 @@
 #### D22-15 update adnjoo.com to cleaner eleventy/jamstack blog, put mern app into heroku
 #### D27-20 learn react on FCC
 #### D30-23 more react on FCC 33/47 lifecycle methods
+#### D31-24
+#### D32-25
+#### D33-26
+#### D34-27
+#### D35-28
+#### D36-29
+#### D37-30
+#### D38-05-01
+#### D39-02
+#### D40-03
