@@ -46,7 +46,7 @@
 #### D53: 05-16
 #### D54: 05-17 did some leetcode today. linked lists.
 #### D55: 05-18
-#### D56: 05-19
+#### D56: 05-19 solved the plusone problem on leetcode after 2 fails. that was tricky!
 #### D57: 05-20
 #### D58: 05-21
 #### D59: 05-22
