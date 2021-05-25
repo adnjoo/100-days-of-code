@@ -52,7 +52,7 @@
 #### D59: 05-22
 #### D60: 05-23 did pascal's triangle leetcode problem
 #### D61: 05-24 factorial problem leetcode; stuck on the excel columns problem lmao
-#### D62: 05-25
+#### D62: 05-25 First Unique Character (LC), Python - loop idioms (FCC)
 #### D63: 05-26
 #### D64: 05-27
 #### D65: 05-28
