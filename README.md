@@ -51,7 +51,7 @@
 #### D58: 05-21
 #### D59: 05-22
 #### D60: 05-23 did pascal's triangle leetcode problem
-#### D61: 05-24
+#### D61: 05-24 factorial problem leetcode
 #### D62: 05-25
 #### D63: 05-26
 #### D64: 05-27
