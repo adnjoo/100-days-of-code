@@ -53,7 +53,7 @@
 #### D60: 05-23 did pascal's triangle leetcode problem
 #### D61: 05-24 factorial problem leetcode; stuck on the excel columns problem lmao
 #### D62: 05-25 First Unique Character (LC), Python - loop idioms (FCC), datetime in python (codecademy, think like cs python (runestone)
-#### D63: 05-26
+#### D63: 05-26 learning about tuples in python (immutable lists)
 #### D64: 05-27
 #### D65: 05-28
 #### D66: 05-29
