@@ -56,7 +56,7 @@
 #### D63: 05-26 learning about tuples in python (immutable lists). hamming distance (LC)
 #### D64: 05-27 dest city (LC). Next time I should remove the subarray once the dest-city has been calculated, to prevent re-searching. did symmetric difference problem (FCC), I think there might be a smarter way to do it.
 #### D65: 05-28 did the decrypt string from alpha question (LC). used a dictionary.
-#### D66: 05-29
+#### D66: 05-29 made a little game in python - guess a number (0-100)
 #### D67: 05-30
 #### D68: 05-31
 #### D69: 06-01
