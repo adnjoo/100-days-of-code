@@ -58,7 +58,7 @@
 #### D65: 05-28 did the decrypt string from alpha question (LC). used a dictionary.
 #### D66: 05-29 made a little game in python - guess a number (0-100)
 #### D67: 05-30
-#### D68: 05-31
+#### D68: 05-31 fixed the matrix blog post where the div would collapse, and also reversed the large font applied to all elements.
 #### D69: 06-01
 #### D70: 06-02
 #### D71: 06-03
