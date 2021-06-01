@@ -59,7 +59,7 @@
 #### D66: 05-29 made a little game in python - guess a number (0-100) https://replit.com/@AndrewNjoo/EnragedElderlyAggregators#main.py
 #### D67: 05-30 rock paper scissors in python - https://replit.com/@AndrewNjoo/StableSoggyMicrocode#main.py. I actually wrote a really long and wrong version of this where the AI would win with a 'rock against a rock' scenario which was obviously wrong. I decided to start over, and the new version works better.
 #### D68: 05-31 fixed the matrix blog post where the div would collapse, and also reversed the large font applied to all elements.
-#### D69: 06-01
+#### D69: 06-01 learning about negative stride in python e.g. rlist = list[::-1]
 #### D70: 06-02
 #### D71: 06-03
 #### D72: 06-04
