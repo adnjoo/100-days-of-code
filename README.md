@@ -62,7 +62,7 @@
 #### D69: 06-01 learning about negative stride in python e.g. rlist = list[::-1]. also learned about lambda / nameless/ anonymous functions in python.
 #### D70: 06-02 learning about bitwise operators: and, xor, or, not. also bit mask
 #### D71: 06-03 made a web browser clock https://adnjoo.com/posts/2021/post-5-clock/ using moment.js, and getting help from another dude's codepen :)
-#### D72: 06-04
+#### D72: 06-04 working on free React lessons @codecademy, and create-react-app
 #### D73: 06-05
 #### D74: 06-06
 #### D75: 06-07
