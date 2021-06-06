@@ -64,7 +64,7 @@
 #### D71: 06-03 made a web browser clock https://adnjoo.com/posts/2021/post-5-clock/ using moment.js, and getting help from another dude's codepen :)
 #### D72: 06-04 working on free React lessons @codecademy, and create-react-app
 #### D73: 06-05 learning react and typescript
-#### D74: 06-06
+#### D74: 06-06 trying to understand + rev. engr. this great portfolio website. https://github.com/RyanFitzgerald/devportfolio
 #### D75: 06-07
 #### D76: 06-08
 #### D77: 06-09
