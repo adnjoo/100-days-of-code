@@ -65,8 +65,8 @@
 #### D72: 06-04 working on free React lessons @codecademy, and create-react-app
 #### D73: 06-05 learning react and typescript
 #### D74: 06-06 trying to understand + rev. engr. this great portfolio website. https://github.com/RyanFitzgerald/devportfolio
-#### D75: 06-07 Day 1 of devmountain! housekeeping. etc.
-#### D76: 06-08
+#### D75: 06-07 Day 1 of devmountain! learning about software development lifecycle
+#### D76: 06-08 DM Day 2 - learning about user personas and lo-fi hi-fi prototyping.
 #### D77: 06-09
 #### D78: 06-10
 #### D79: 06-11
