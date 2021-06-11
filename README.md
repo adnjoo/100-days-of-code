@@ -68,7 +68,7 @@
 #### D75: 06-07 devmountain DM W1D1! learning about software development lifecycle
 #### D76: 06-08 DM W1D2 - learning about user personas and lo-fi hi-fi prototyping.
 #### D77: 06-09 DM W1D3 - learning about waterfall vs agile software development methodologies. Continued to work on my chrome plugin called RedBorderChromeExtension. https://github.com/adnjoo/RedBorderChromeExtension. V 0.1 kind of works!
-#### D78: 06-10
+#### D78: 06-10 used Figma to create wireframes, styling guides, and high fidelity mockups. https://pdfhost.io/v/LA9Agef4e_Devmountain_Design_Lab_minpdf.pdf
 #### D79: 06-11
 #### D80: 06-12
 #### D81: 06-13
