@@ -70,7 +70,7 @@
 #### D77: 06-09 DM W1D3 - learning about waterfall vs agile software development methodologies. Continued to work on my chrome plugin called RedBorderChromeExtension. https://github.com/adnjoo/RedBorderChromeExtension. V 0.1 kind of works!
 #### D78: 06-10 used Figma to create wireframes, styling guides, and high fidelity mockups. https://pdfhost.io/v/LA9Agef4e_Devmountain_Design_Lab_minpdf.pdf
 #### D79: 06-11 assessment today on wireframes/user research/ UX design for DM. fixed some bugs in chrome extension. 
-#### D80: 06-12
+#### D80: 06-12 making card/blackjack game in JS
 #### D81: 06-13
 #### D82: 06-14
 #### D83: 06-15
