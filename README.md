@@ -72,7 +72,7 @@
 #### D79: 06-11 assessment today on wireframes/user research/ UX design for DM. fixed some bugs in chrome extension. 
 #### D80: 06-12 making card/blackjack game in JS
 #### D81: 06-13 working on blackjack; learned now to invoke settimeout in a while loop lol.
-#### D82: 06-14
+#### D82: 06-14 ran prettier over my bj code. oowee. now it looks so nice :)
 #### D83: 06-15
 #### D84: 06-16
 #### D85: 06-17
