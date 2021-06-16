@@ -74,7 +74,7 @@
 #### D81: 06-13 working on blackjack; learned now to invoke settimeout in a while loop lol.
 #### D82: 06-14 ran prettier over my bj code. oowee. now it looks so nice :)
 #### D83: 06-15 working on BJ; learned about DOMSubtreeModified/DOMCharacterDataModified to detect changes in DOM. However these have been deprecated for MutationObserver. To change the styling when the chips are 0/ betsize is 0.
-#### D84: 06-16
+#### D84: 06-16 learning functions in DM. trying out Tkinter / GUI on Python with Runestone :)
 #### D85: 06-17
 #### D86: 06-18
 #### D87: 06-19
