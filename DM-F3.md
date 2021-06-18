@@ -7,11 +7,12 @@
 #### D7: 06-13 Worked on personal projects.
 #### D8: 06-14 W2 Learned about Git (version control software), and variables/datatypes. There are 6 basic data-types in JS. The 3 primitives are:
 #### String, Number and Boolean. The 3 composites are: Object, Array and Function.  
-#### D9: 06-15 Went over functions: including function declarations and function expressions (not hoisted).
+#### D9: 06-15 Learned about conditional logic, and arrays. We also learned about pair programming which is a strategy/practice
+#### that allows 2 programmers to communicate and work on a problem. With this approach, developers are able to code more effectively.  
+#### D10: 06-16 Went over functions: including function declarations and function expressions (not hoisted).
 #### There are also anonymous functions without names like function(){console.log("Text")}
-#### D10: 06-16 Learned about Objects, Classes (which are like mini factories), the 'extends', 'super' & 'constructor' keyword
-#### D11: 06-17 Assessment today covered W2 learning materials. I learned about Regex to check for special characters in a password checker.
-#### D12: 06-18
+#### D11: 06-17 Learned about Objects, Classes (which are like mini factories), the 'extends', 'super' & 'constructor' keyword
+#### D12: 06-18 Assessment today covered W2 learning materials. I learned about Regex to check for special characters in a password checker.
 #### D13: 06-19
 #### D14: 06-20
 #### D15: 06-21
