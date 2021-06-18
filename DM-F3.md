@@ -2,7 +2,7 @@
 #### D2: 06-08 Learned about software planning.
 #### D3: 06-09 Learned about Waterfall and Agile. Agile practices refers to the SW dev. methodologies centered round the idea of iterative development.
 #### D4: 06-10 Learned about basic design principles, and color theory.
-#### D5: 06-11 Created mockups and prototypes of UX/UI elements for a basic application.
+#### D5: 06-11 Created mockups and prototypes of UX/UI elements for a web application.
 #### D6: 06-12 Revised W1 materials.
 #### D7: 06-13 Worked on personal projects.
 #### D8: 06-14 W2 Learned about Git (version control software), and variables/datatypes. There are 6 basic data-types in JS. The 3 primitives are:
