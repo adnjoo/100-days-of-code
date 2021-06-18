@@ -71,7 +71,7 @@
 #### D78: 06-10 used Figma to create wireframes, styling guides, and high fidelity mockups. https://pdfhost.io/v/LA9Agef4e_Devmountain_Design_Lab_minpdf.pdf
 #### D79: 06-11 assessment today on wireframes/user research/ UX design for DM. fixed some bugs in chrome extension. 
 #### D80: 06-12 making card/blackjack game in JS
-#### D81: 06-13 working on blackjack; learned now to invoke settimeout in a while loop lol.
+#### D81: 06-13 Working on blackjack; learned not to invoke settimeout in a while loop lol.
 #### D82: 06-14 ran prettier over my bj code. oowee. now it looks so nice :)
 #### D83: 06-15 working on BJ; learned about DOMSubtreeModified/DOMCharacterDataModified to detect changes in DOM. However these have been deprecated for MutationObserver. To change the styling when the chips are 0/ betsize is 0.
 #### D84: 06-16 learning functions in DM. trying out Tkinter / GUI on Python with Runestone :)
