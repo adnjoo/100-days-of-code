@@ -7,6 +7,8 @@
 #### D7: 06-13 Worked on personal projects.
 #### D8: 06-14 W2 Learned about Git (version control software), and variables/datatypes. There are 6 basic data-types in JS. The 3 primitives are:
 #### String, Number and Boolean. The 3 composites are: Object, Array and Function.  
+#### Some extra data-types include undefined (variable declared but not assigned a value), and null (represents nil or nothingness).
+#### The typeof operator can be used to find out the data type.
 #### D9: 06-15 Learned about conditional logic, and arrays. We also learned about pair programming which is a strategy/practice
 #### that allows 2 programmers to communicate and work on a problem. With this approach, developers are able to code more effectively.  
 #### D10: 06-16 Went over functions: including function declarations and function expressions (not hoisted).
