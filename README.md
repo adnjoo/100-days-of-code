@@ -76,7 +76,7 @@
 #### D83: 06-15 working on BJ; learned about DOMSubtreeModified/DOMCharacterDataModified to detect changes in DOM. However these have been deprecated for MutationObserver. To change the styling when the chips are 0/ betsize is 0.
 #### D84: 06-16 learning functions in DM. trying out Tkinter / GUI on Python with Runestone :)
 #### D85: 06-17 Implemented cards js in my blackjack app. Learned about Objects at DM today!
-#### D86: 06-18
+#### D86: 06-18 worked on blackjack app more. DM - assessment
 #### D87: 06-19
 #### D88: 06-20
 #### D89: 06-21
