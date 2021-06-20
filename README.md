@@ -78,7 +78,7 @@
 #### D85: 06-17 Implemented cards js in my blackjack app. Learned about Objects at DM today!
 #### D86: 06-18 worked on blackjack app more. DM - assessment
 #### D87: 06-19 working on blackjack app - split function - creating a new sub-row inside the player hand quadrant when identical cards are reproduced consecutively in a player hand
-#### D88: 06-20
+#### D88: 06-20 working on blackjack app. rewriting.
 #### D89: 06-21
 #### D90: 06-22
 #### D91: 06-23
