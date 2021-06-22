@@ -79,7 +79,7 @@
 #### D86: 06-18 worked on blackjack app more. DM - assessment
 #### D87: 06-19 working on blackjack app - split function - creating a new sub-row inside the player hand quadrant when identical cards are reproduced consecutively in a player hand
 #### D88: 06-20 working on blackjack app. rewriting. Wotd: autoignition 
-#### D89: 06-21
+#### D89: 06-21 learned about curl commands to make GET/POST requests for APIs.
 #### D90: 06-22
 #### D91: 06-23
 #### D92: 06-24
