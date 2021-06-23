@@ -81,8 +81,8 @@
 #### D88: 06-20 working on blackjack app. rewriting. Wotd: autoignition 
 #### D89: 06-21 learned about curl commands to make GET/POST requests for APIs.
 #### D90: 06-22 relearning HTML/CSS today at DM. playing around with cards JS.
-#### D91: 06-23 learning React tic tac toe.
-#### D92: 06-24
+#### D91: 06-23 learning React tic tac toe. also learning about JS interactivity with querySelector, and DOM interaction.
+#### D92: 06-24 learning about axios and async as well as promises in JS.
 #### D93: 06-25
 #### D94: 06-26
 #### D95: 06-27
