@@ -85,7 +85,7 @@
 #### D92: 06-24 learning about axios and async as well as promises in JS. things to look up: destructuring ES6. promises (3 states: pending, fulfilled, rejected)
 #### D93: 06-25 @DM we did the HTML/CSS/JS assessment today. after class playing around with axios and ES2017 await, async, and Promises.
 #### D94: 06-26 worked on a little Pokeapi app using axios and promises.
-#### D95: 06-27
+#### D95: 06-27 worked on Pokevolution app this sunday. cleaned up the styling with Bootstrap.
 #### D96: 06-28
 #### D97: 06-29
 #### D98: 06-30
