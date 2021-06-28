@@ -86,7 +86,7 @@
 #### D93: 06-25 @DM we did the HTML/CSS/JS assessment today. after class playing around with axios and ES2017 await, async, and Promises.
 #### D94: 06-26 worked on a little Pokeapi app using axios and promises.
 #### D95: 06-27 worked on Pokevolution app this sunday. cleaned up the styling with Bootstrap.
-#### D96: 06-28
+#### D96: 06-28 DM - worked with Python & matplotlib today
 #### D97: 06-29
 #### D98: 06-30
 #### D99: 07-01
