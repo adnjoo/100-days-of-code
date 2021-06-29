@@ -87,7 +87,7 @@
 #### D94: 06-26 worked on a little Pokeapi app using axios and promises.
 #### D95: 06-27 worked on Pokevolution app this sunday. cleaned up the styling with Bootstrap.
 #### D96: 06-28 DM - worked with Python & matplotlib today
-#### D97: 06-29
+#### D97: 06-29 learning about SQL today.
 #### D98: 06-30
 #### D99: 07-01
 #### D100: 07-02
