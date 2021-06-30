@@ -88,6 +88,6 @@
 #### D95: 06-27 worked on Pokevolution app this sunday. cleaned up the styling with Bootstrap.
 #### D96: 06-28 DM - worked with Python & matplotlib today
 #### D97: 06-29 learning about SQL today. worked on React tic tac toe. wow React is so confusing lmao.
-#### D98: 06-30
+#### D98: 06-30 more SQL today. more React.
 #### D99: 07-01
 #### D100: 07-02
