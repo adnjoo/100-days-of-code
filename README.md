@@ -89,5 +89,5 @@
 #### D96: 06-28 DM - worked with Python & matplotlib today
 #### D97: 06-29 learning about SQL today. worked on React tic tac toe. wow React is so confusing lmao.
 #### D98: 06-30 more SQL today. more React.
-#### D99: 07-01
+#### D99: 07-01 opened a pull request on https://github.com/simpleledger/Electron-Cash-SLP for a small edit on the readme doc. Hopefully it can help mac users find the right directory.
 #### D100: 07-02
