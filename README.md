@@ -1,7 +1,7 @@
 # 100D - R2 Log - 2021
 #### D1: 07-03 making webpages on React. Things don't work the same as HTMl/JS e.g. forms = controlled components. testing psql and creating databases on the mac.
 #### D2: 07-04 working on React again: - Movie list (DM) rewrite. opened a pull request on react-gh-pages to fix the README.md npx command is missing.
-#### D3: 07-05
+#### D3: 07-05 downloaded keyboard maestro; went through express today (DM).
 #### D4: 07-06
 #### D5: 07-07
 #### D6: 07-08
