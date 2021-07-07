@@ -3,7 +3,7 @@
 #### D2: 07-04 working on React again: - Movie list (DM) rewrite. opened a pull request on react-gh-pages to fix the README.md npx command is missing.
 #### D3: 07-05 downloaded keyboard maestro; went through express today (DM). Hooking up Postgres with node and express.
 #### D4: 07-06 worked on more backend today using express to set up api endpoints. Injected a git shortcut into bash profile.
-#### D5: 07-07
+#### D5: 07-07 learn about APIs today (DM).
 #### D6: 07-08
 #### D7: 07-09
 #### D8: 07-10
