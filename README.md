@@ -10,7 +10,7 @@
 #### D3: 07-05 downloaded keyboard maestro; went through express today (DM). Hooking up Postgres with node and express.
 #### D4: 07-06 worked on more backend today using express to set up api endpoints. Injected a git shortcut into bash profile.
 #### D5: 07-07 learn about APIs today (DM). testing out pokeapi and PUT/POST/DELETE requests using [Postman](https://www.postman.com/) https://app.swaggerhub.com/search, & https://joes-autos.herokuapp.com/api/vehicles.
-#### D6: 07-08
+#### D6: 07-08 today we learned about cryptography and security. Using bcryptjs.
 #### D7: 07-09
 #### D8: 07-10
 #### D9: 07-11
