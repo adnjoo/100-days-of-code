@@ -11,7 +11,7 @@
 #### D4: 07-06 worked on more backend today using express to set up api endpoints. Injected a git shortcut into bash profile.
 #### D5: 07-07 learn about APIs today (DM). testing out pokeapi and PUT/POST/DELETE requests using [Postman](https://www.postman.com/), https://app.swaggerhub.com/search, & https://joes-autos.herokuapp.com/api/vehicles.
 #### D6: 07-08 today we learned about cryptography and security. Using bcryptjs. Debuggin a server on [heroku](https://www.heroku.com/). 
-#### D7: 07-09
+#### D7: 07-09 worked on a backend assessment. Utilised fs library to write into a .json file.
 #### D8: 07-10
 #### D9: 07-11
 #### D10: 07-12
