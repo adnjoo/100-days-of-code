@@ -14,7 +14,7 @@
 #### D5: 07-07 learn about APIs today (DM). testing out pokeapi and PUT/POST/DELETE requests using [Postman](https://www.postman.com/), https://app.swaggerhub.com/search, & https://joes-autos.herokuapp.com/api/vehicles.
 #### D6: 07-08 today we learned about cryptography and security. Using bcryptjs. Debuggin a server on [heroku](https://www.heroku.com/). 
 #### D7: 07-09 worked on a backend assessment. Utilised fs library to write into a .json file.
-#### D8: 07-10
+#### D8: 07-10 did a little styling on the [portfolio website](https://adnjoo.com/) and movie app, using transition: transform, and  transform: scale().
 #### D9: 07-11
 #### D10: 07-12
 #### D11: 07-13
