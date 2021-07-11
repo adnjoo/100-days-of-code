@@ -12,10 +12,10 @@
 #### D3: 07-05 downloaded keyboard maestro; went through express today (DM). Hooking up Postgres with node and express.
 #### D4: 07-06 worked on more backend today using express to set up api endpoints. Injected a git shortcut into bash profile.
 #### D5: 07-07 learn about APIs today (DM). testing out pokeapi and PUT/POST/DELETE requests using [Postman](https://www.postman.com/), https://app.swaggerhub.com/search, & https://joes-autos.herokuapp.com/api/vehicles.
-#### D6: 07-08 today we learned about cryptography and security. Using bcryptjs. Debuggin a server on [heroku](https://www.heroku.com/). 
+#### D6: 07-08 today we learned about cryptography and security. Using bcryptjs. Debuggin a server on [heroku](https://www.heroku.com/).
 #### D7: 07-09 worked on a backend assessment. Utilised fs library to write into a .json file.
 #### D8: 07-10 did a little styling on the [portfolio website](https://adnjoo.com/) and movie app, using transition: transform, and  transform: scale().
-#### D9: 07-11
+#### D9: 07-11 added create movie functionality to [my-movie-app](https://github.com/adnjoo/my-movie-app/) using axios.post and express endpoint.
 #### D10: 07-12
 #### D11: 07-13
 #### D12: 07-14
