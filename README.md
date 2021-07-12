@@ -5,7 +5,7 @@
 #### End Date
 10-10-21
 
-## Log
+## [Log](https://adnjoo.github.io/100d/)
 
 #### D1: 07-03 making webpages on React. Things don't work the same as HTMl/JS e.g. forms = controlled components. testing psql and creating databases on the mac.
 #### D2: 07-04 working on React again: - Movie list (DM) rewrite. opened a pull request on react-gh-pages to fix the README.md npx command is missing.
