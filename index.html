@@ -15,6 +15,11 @@
   function myFunction() {
   var element = document.body;
   element.classList.toggle("dark-mode");
+  let x = document.querySelectorAll('h4')
+  console.log(x)
+  for (let i in x){
+    x.classList.toggle('dark-mode')
+  }
 }
 
 </script>

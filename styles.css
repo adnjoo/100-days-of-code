@@ -6,8 +6,8 @@ body {
 }
 
 .dark-mode {
-  background-color: black;
-  color: white;
+  background-color: grey;
+  color: white !important;
 }
 
 .fixedButton {
