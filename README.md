@@ -15,7 +15,7 @@
 #### D6: 07-08 today we learned about cryptography and security. Using bcryptjs. Debuggin a server on [heroku](https://www.heroku.com/).
 #### D7: 07-09 worked on a backend assessment. Utilised fs library to write into a .json file.
 #### D8: 07-10 did a little styling on the [portfolio website](https://adnjoo.com/) and movie app, using transition: transform, and  transform: scale().
-#### D9: 07-11 added create+delete movie functionality to [my-movie-app](https://github.com/adnjoo/my-movie-app/) using axios.post and express endpoint.
+#### D9: 07-11 added create+delete movie functionality to [my-movie-app](https://github.com/adnjoo/my-movie-app/) using axios.post and express endpoint. Fixed git commit message after push [with some help](https://www.educative.io/edpresso/how-to-change-a-git-commit-message-after-a-push)
 #### D10: 07-12
 #### D11: 07-13
 #### D12: 07-14
