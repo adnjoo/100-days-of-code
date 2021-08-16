@@ -6,13 +6,14 @@
 </head>
 
 <body>
-  hi
   <!-- import zero-md -->
   <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
   <button onclick="myfunction('r1')">hide r2</button>
+  <br><br>
   <zero-md id='r1' src="./r2-2021.md"></zero-md>
   <br>
   <button onclick="myfunction('r2')">hide r1</button>
+  <br><br>
   <zero-md id='r2' src="./r1-2021.md"></zero-md>
   <script>
     function myfunction(id){
