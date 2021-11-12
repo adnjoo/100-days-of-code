@@ -1,26 +1,33 @@
 <html>
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel='stylesheet' href='./styles.css'>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel='stylesheet' href='./styles.css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+    integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
   <!-- import zero-md -->
   <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
-  <button onclick="myfunction('r1')">hide r2</button>
+  <button onclick="showMarkDown('r1')">hide r2</button>
   <br><br>
   <zero-md id='r1' src="./r2-2021.md"></zero-md>
   <br>
-  <button onclick="myfunction('r2')">hide r1</button>
+  <button onclick="showMarkDown('r2')">hide r1</button>
   <br><br>
   <zero-md id='r2' src="./r1-2021.md"></zero-md>
   <script>
-    function myfunction(id){
-      const zeromd = document.getElementById(id)
+    const showMarkDown = (id) => {
+      const zeromd = document.getElementById(id);
       zeromd.style.display = zeromd.style.display === 'none' ? '' : 'none';
     }
   </script>
+  <a href='https://github.com/adnjoo/100d'>
+    <i class="fab fa-github">
+    </i>
+  </a>
 </body>
 
 </html>
