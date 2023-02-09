@@ -1,0 +1,14 @@
+{
+  "name": "100d-markdown-generator",
+  "version": "1.0.0",
+  "description": "## instructions: ``` git clone https://github.com/adnjoo/100d-markdown-generator node index.js ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
