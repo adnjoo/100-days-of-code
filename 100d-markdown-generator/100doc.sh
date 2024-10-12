@@ -18,7 +18,6 @@ cat <<EOL > 100doc.md
 ## Rules
 1. Code every day for at least an hour.
 2. Log the progress here every day.
-3. If you miss a day, make it up by the 100th day!
 
 ---
 
