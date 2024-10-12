@@ -1,10 +1,8 @@
 # 100d markdown generator
 
 ## Quick start:
+1. edit `START_DATE`
 ```
-node index.js
+chmod +x 100doc.sh
+./100doc.sh
 ```
-
-Choose (y) for today's date and (n) for a custom date
-
-Make sure the start date is correct.
