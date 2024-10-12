@@ -28,9 +28,9 @@ EOL
 # Generate 100 days of logs
 for i in $(seq 0 99); do
   CURRENT_DATE=$(date -v+"$i"d -jf "%Y-%m-%d" "$START_DATE" +"%B %d, %Y")
-  echo -e "\n### Day $((i + 1)) - $CURRENT_DATE" >> 100_days_of_code.md
-  echo "**Notes:**  " >> 100_days_of_code.md
-  echo "---" >> 100_days_of_code.md
+  echo -e "\n### Day $((i + 1)) - $CURRENT_DATE" >> 100doc.md
+  echo "**Notes:**  " >> 100doc.md
+  echo "---" >> 100doc.md
 done
 
 echo "100 Days of Code markdown file generated successfully!"
